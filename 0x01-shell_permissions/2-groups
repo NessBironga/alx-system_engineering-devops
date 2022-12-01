@@ -1,0 +1,2 @@
+#!/bin/bash
+chgrp grp_2 grp_1
